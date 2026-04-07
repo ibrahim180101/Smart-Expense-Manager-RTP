@@ -1,4 +1,4 @@
-SQL Steps
+->SQL Steps
 Create database
 Use database
 Create users table
