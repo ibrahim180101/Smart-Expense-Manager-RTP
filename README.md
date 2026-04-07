@@ -1,4 +1,4 @@
--->SQL Steps
+--->SQL Steps
 
 • Create database
 
@@ -8,7 +8,7 @@
 
 • Create expenses table with foreign key
 
--->Python Steps
+--->Python Steps
 
 • Import libraries
 
