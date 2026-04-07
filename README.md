@@ -1,53 +1,53 @@
 -->SQL Steps
 
-Create database
+• Create database
 
-Use database
+• Use database
 
-Create users table
+• Create users table
 
-Create expenses table with foreign key
+• Create expenses table with foreign key
 
 -->Python Steps
 
-Import libraries
+• Import libraries
 
-Connect Python to MySQL
+• Connect Python to MySQL
 
-Create abstract class Person
+• Create abstract class Person
 
-Create User class (add user)
+• Create User class (add user)
 
-Create Expense class (inherit from User)
+•Create Expense class (inherit from User)
 
-Implement add expense method
+• Implement add expense method
 
-Implement view expenses using JOIN
+• Implement view expenses using JOIN
 
-Implement filter by category (filter)
+• Implement filter by category (filter)
 
-Implement filter by date (list comprehension)
+• Implement filter by date (list comprehension)
 
-Implement total expense (map + reduce)
+• Implement total expense (map + reduce)
 
-Implement category-wise spending (dictionary comprehension)
+• Implement category-wise spending (dictionary comprehension)
 
-Implement update expense
+• Implement update expense
 
-Implement delete expense
+• Implement delete expense
 
-Implement monthly report
+• Implement monthly report
 
-Implement highest expense (reduce)
+• Implement highest expense (reduce)
 
-Implement smart insight
+• Implement smart insight
 
-Add user
+• Add user
 
-Add expenses
+• Add expenses
 
-Create expense object
+• Create expense object
 
-Call all methods
+• Call all methods
 
-Close database connection
+• Close database connection
